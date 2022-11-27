@@ -2,7 +2,7 @@
 
 # Created by: Joseph Kwon
 # Created on: November 22
-# This program gets user's input and outputs the factorial
+# This program converts your celsius to fahrenheit
 
 
 def fahrenheit():
